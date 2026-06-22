@@ -6,7 +6,7 @@
 
         <classes>
 
-            <class name="org.joy.pradeep.tests.GoogleTest"/>
+            <class name="org.joy.pradeep.tests.GoogleTests"/>
 
         </classes>
 
